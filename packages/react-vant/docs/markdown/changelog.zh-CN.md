@@ -12,6 +12,19 @@ React Vant 遵循 [Semver](https://semver.org/lang/zh-CN/) 语义化版本规范
 
 ## 更新内容
 
+### 1.4.17
+
+`(2022-3-18)`
+
+**Bug Fixes**
+
+- Empty: `description` 包裹容器改为 `div` ([66165e4](https://github.com/3lang3/react-vant/commit/66165e4edf71e2c4fe222c33f20a78b19e342256))
+- usePageVisibility: 类型错误修复 ([a4a6a90](https://github.com/3lang3/react-vant/commit/a4a6a90cf47b5505c7200996a91891b492fdfcd7))
+
+**Features**
+
+- Form: 新增 `border` 和 `layout`属性 ([e69fc38](https://github.com/3lang3/react-vant/commit/e69fc38d9026a06deaa8955f8b822b5e96b9d729))
+
 ### 1.4.16
 
 `2022-03-09`
